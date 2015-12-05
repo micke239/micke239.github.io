@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A simple blog | micke239</title>
+    <description>micke239 writing about stuff
+</description>
+    <link>http://micke239.github.io/</link>
+    <atom:link href="http://micke239.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Dec 2015 22:29:51 +0100</pubDate>
+    <lastBuildDate>Sat, 05 Dec 2015 22:29:51 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Learning Jekyll</title>
+        <description>&lt;h2 id=&quot;installing&quot;&gt;Installing&lt;/h2&gt;
+
+&lt;p&gt;I just installed Jekyll for the first time, thinking that a static site generator would fit perfectly for what I’m about to do.&lt;/p&gt;
+
+&lt;p&gt;It was all very simple, I had everything needed already installed on my system. Except of Jekyll, of course.&lt;/p&gt;
+
+&lt;p&gt;So after a &lt;code&gt;gem install jekyll&lt;/code&gt;, followed by &lt;code&gt;jekyll new blog&lt;/code&gt;, I had a bootstrap application which I could serve and buil using &lt;code&gt;jekyll serve --detach&lt;/code&gt; and &lt;code&gt;jekyll build --watch&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;configuring&quot;&gt;Configuring&lt;/h2&gt;
+
+&lt;p&gt;So far, I’ve touched the &lt;code&gt;config.yml&lt;/code&gt; file and the includes. The only issue I’ve come across so far is that I have to redo &lt;code&gt;jekyll serve&lt;/code&gt; and &lt;code&gt;jekyll watch&lt;/code&gt; each time I edit the configs. I’m eager to learn more!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 21:02:50 +0100</pubDate>
+        <link>http://micke239.github.io/jekyll/2015/11/16/learning-jekyll.html</link>
+        <guid isPermaLink="true">http://micke239.github.io/jekyll/2015/11/16/learning-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
