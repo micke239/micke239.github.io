@@ -6,12 +6,63 @@
 </description>
     <link>http://micke239.github.io/</link>
     <atom:link href="http://micke239.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Dec 2015 22:29:51 +0100</pubDate>
-    <lastBuildDate>Sat, 05 Dec 2015 22:29:51 +0100</lastBuildDate>
+    <pubDate>Sun, 06 Dec 2015 21:52:06 +0100</pubDate>
+    <lastBuildDate>Sun, 06 Dec 2015 21:52:06 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>Learning Jekyll</title>
+        <title>Applying style to my new blog</title>
+        <description>&lt;h2 id=&quot;styling-skills&quot;&gt;Styling skills&lt;/h2&gt;
+
+&lt;p&gt;Even with awesome sites like &lt;a href=&quot;https://coolors.co/&quot;&gt;https://coolors.co/&lt;/a&gt;, picking fonts and colors has never been something I’ve been good at. That’s why frameworks like &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;bootstrap&lt;/a&gt; and &lt;a href=&quot;http://purecss.io/&quot;&gt;pure css&lt;/a&gt; are such amazing tools.&lt;/p&gt;
+
+&lt;p&gt;The current style is based upon &lt;a href=&quot;http://purecss.io/layouts/blog/&quot;&gt;http://purecss.io/layouts/blog/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;keeping-the-css-small&quot;&gt;Keeping the css small&lt;/h2&gt;
+
+&lt;p&gt;I’ve picked the bits that I need to make stuff look good by hand instead of including everything from the &lt;a href=&quot;http://purecss.io/&quot;&gt;pure.css framework&lt;/a&gt;. CSS frameworks are awesome, but by using a framework you include loads of bytes that won’t affect the user at all.&lt;/p&gt;
+
+&lt;p&gt;There are, of course, arguments for including everything. It makes developing faster, for one. Another argument could be that by including all of the framework and using only that, you’d actually end up with a smaller css file later on when the project grows large.&lt;/p&gt;
+
+&lt;p&gt;In this case, however, I believe keeping the file light and tight is the way to go.&lt;/p&gt;
+
+&lt;h2 id=&quot;user-experience&quot;&gt;User experience&lt;/h2&gt;
+
+&lt;p&gt;Another thing I’ve never been good at but always interested in learning, is UX. I’ve actually applied lots of stuff from the hilarious satire site &lt;a href=&quot;http://bettermotherfuckingwebsite.com/&quot;&gt;better motherfucking website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The key points I took with me to this site is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Larger line hight&lt;/li&gt;
+  &lt;li&gt;Less contrast&lt;/li&gt;
+  &lt;li&gt;Large font-size (especially important for smart phones)&lt;/li&gt;
+  &lt;li&gt;Smaller line width for posts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finally-images-of-the-blog-today&quot;&gt;Finally: images of the blog today&lt;/h2&gt;
+
+&lt;p&gt;For historical purposes, here are some images of what the site looks like right now:&lt;/p&gt;
+
+&lt;h3 id=&quot;desktop&quot;&gt;Desktop&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://res.cloudinary.com/http-micke239-github-io/image/upload/c_scale,h_672/v1449434164/Sk%C3%A4rmavbild_2015-12-06_kl._21.33.53_sqvrsx.png&quot; alt=&quot;desktop&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;phone&quot;&gt;Phone&lt;/h3&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;http://res.cloudinary.com/http-micke239-github-io/image/upload/c_scale,h_672/v1449434155/Sk%C3%A4rmavbild_2015-12-06_kl._21.34.55_nllsgf.png&quot; alt=&quot;phone&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Dec 2015 20:42:00 +0100</pubDate>
+        <link>http://micke239.github.io/pure-css</link>
+        <guid isPermaLink="true">http://micke239.github.io/pure-css</guid>
+        
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
+        <title>Getting started with Jekyll</title>
         <description>&lt;h2 id=&quot;installing&quot;&gt;Installing&lt;/h2&gt;
 
 &lt;p&gt;I just installed Jekyll for the first time, thinking that a static site generator would fit perfectly for what I’m about to do.&lt;/p&gt;
@@ -25,8 +76,8 @@
 &lt;p&gt;So far, I’ve touched the &lt;code&gt;config.yml&lt;/code&gt; file and the includes. The only issue I’ve come across so far is that I have to redo &lt;code&gt;jekyll serve&lt;/code&gt; and &lt;code&gt;jekyll watch&lt;/code&gt; each time I edit the configs. I’m eager to learn more!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 21:02:50 +0100</pubDate>
-        <link>http://micke239.github.io/jekyll/2015/11/16/learning-jekyll.html</link>
-        <guid isPermaLink="true">http://micke239.github.io/jekyll/2015/11/16/learning-jekyll.html</guid>
+        <link>http://micke239.github.io/learning-jekyll</link>
+        <guid isPermaLink="true">http://micke239.github.io/learning-jekyll</guid>
         
         
         <category>jekyll</category>

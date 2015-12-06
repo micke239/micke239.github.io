@@ -320,7 +320,7 @@ pre {
 .post__content, .post-teaser__content {
   margin: 1em 0; }
 
-.post-category--jekyll {
+.post-category--jekyll, .post-category--css {
   margin: 0 0.1em;
   padding: 0.3em 1em;
   color: #fff;
@@ -329,9 +329,15 @@ pre {
 .post-category--jekyll {
   background: #5aba59; }
 
+.post-category--css {
+  background: #4d85d1; }
+
 .post-teaser {
   margin-bottom: 2em;
   border-bottom: 1px solid #eee; }
 
 .post-teaser__title-anchor, .post-teaser__title-anchor:visited, .post-teaser__title-anchor:hover, .post-teaser__title-anchor:active {
   color: inherit; }
+
+.post-teaser__more-container {
+  text-align: right; }
